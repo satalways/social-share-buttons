@@ -3,7 +3,7 @@
  * Plugin Name: Social Share Buttons
  * Plugin URI: https://github.com/satalways/social-share-buttons
  * Description: A simple and customizable social sharing buttons plugin for WordPress.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Shakeel Ahmed (satalways)
  * Author URI: https://shakeel.pk
  * License: GPL-2.0+
