@@ -69,7 +69,12 @@ Yes, you can choose from three different button styles: icon and text, icon only
 ### 1.0.0
 * Initial release
 
+### 1.0.1
+* readme.txt removed
+* Setting Plugin URL
+
 ## Upgrade Notice
 
 ### 1.0.0
 Initial release
+
