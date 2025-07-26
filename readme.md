@@ -1,6 +1,6 @@
 # Social Share Buttons
 
-**Contributors:** Shakeel Ahmed  
+**Author:** Shakeel Ahmed  
 **Tags:** social media, share buttons, facebook, twitter, linkedin, pinterest, reddit, email  
 **Requires at least:** 5.0  
 **Tested up to:** 6.4  
